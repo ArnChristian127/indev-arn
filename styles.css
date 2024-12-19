@@ -65,7 +65,6 @@ html {
     gap: 50px;
 }
 .about-content {
-    border: 8px solid white;
     width: 600px;
     height: 335px;
     display: flex;
