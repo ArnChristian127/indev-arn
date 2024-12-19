@@ -112,6 +112,13 @@ html {
     border: 5px solid white;
     color: white;
     font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.github-button:hover {
+    border: 5px solid #3192ee;
+    color: #3192ee;
 }
 .width-spaces {
     width: 100%;
