@@ -368,4 +368,7 @@ html {
         flex-direction: row;
         flex-wrap: wrap;
     }
+    .about-cover {
+        background: linear-gradient(8deg, #3192ee 20%, #252525 20%);
+    }
 }
