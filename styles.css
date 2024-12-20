@@ -121,8 +121,10 @@ html {
     color: #3192ee;
 }
 .width-spaces {
+    text-align: center;
     width: 100%;
     height: 50px;
+    color: white;
 }
 .technology-animation {
     position: absolute;
